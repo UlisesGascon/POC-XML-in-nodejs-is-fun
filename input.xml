@@ -1,0 +1,11 @@
+<note>
+    <to>Tove</to>
+    <from>Jani</from>
+    <heading>Reminder</heading>
+    <content-body>
+        <h1>Don't forget me this weekend!</h1>
+        <p>This is the First P</p>
+        <img src="smiley.gif"/>
+        <p>This is the Second P</p>
+    </content-body>
+</note>

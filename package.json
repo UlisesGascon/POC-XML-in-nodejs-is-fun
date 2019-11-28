@@ -1,0 +1,24 @@
+{
+  "name": "xml-in-nodejs-is-fun",
+  "version": "1.0.0",
+  "description": "Some transformation and useful stuff for deal with XML in Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UlisesGascon/XML-in-nodejs-is-fun.git"
+  },
+  "author": "Ulises Gascon",
+  "license": "AGPL-3.0",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/UlisesGascon/XML-in-nodejs-is-fun/issues"
+  },
+  "homepage": "https://github.com/UlisesGascon/XML-in-nodejs-is-fun#readme",
+  "dependencies": {
+    "jsdom": "^15.2.1",
+    "xml2js": "^0.4.22"
+  }
+}

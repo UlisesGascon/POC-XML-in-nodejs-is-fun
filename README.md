@@ -3,7 +3,7 @@ Some transformation and useful stuff for deal with XML in Nodejs
 
 ### How to use this repo?
 
-- Check `input.csv` and `index.js` 
+- Check `input.xml` and `index.js` 
 
 ### Let's fun too
 
